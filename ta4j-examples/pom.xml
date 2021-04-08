@@ -7,6 +7,12 @@
     </parent>
     <artifactId>ta4j-examples</artifactId>
 
+	<properties>
+		<sonar.projectKey>toindev_ta4j-examples</sonar.projectKey>
+		<sonar.organization>toindev</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+
     <name>Ta4j Examples</name>
     <description>Provides examples that demonstrate how to use ta4j</description>
 
