@@ -7,6 +7,12 @@
 	</parent>
 	<artifactId>ta4j-core</artifactId>
 
+	<properties>
+		<sonar.projectKey>toindev_ta4j-core</sonar.projectKey>
+		<sonar.organization>toindev</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
+
 	<name>Ta4j Core</name>
 	<description>ta4j is a Java library providing a simple API for technical analysis.</description>
 
